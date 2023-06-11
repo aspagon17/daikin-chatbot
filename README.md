@@ -32,4 +32,4 @@ Once you've run the notebook and tried the two Streamlit apps, you should be in 
 - This is a simple starting point - if you hit issues deploying your use case you may need to tune (non-exhaustive list):
     - The prompt and parameters for the model for it to answer accurately
     - Your search to return more relevant results
-    - Your chunking/embedding approach to store the most relevant content effectively for retrieval
+    - Your chunking/embedding approach to store the most relevant content effectively for retrieval# daikin-chatbot
